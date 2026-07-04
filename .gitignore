@@ -1,0 +1,5 @@
+aircraft_backend\.env
+aircraft_backend\db.sqlite3
+__pycache__/
+*.pyc
+aircraft_frontend\dist/
